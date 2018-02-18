@@ -1,0 +1,16 @@
+    {"employees":[   
+		{"name":"nameUserName"
+		"fields":
+		"id": "userName"
+		"label":" User name"
+		"type": "text"
+		"required": true
+   
+            "name":"nameUserName"
+            "results": 
+			"id": "userName"
+            "label":" User name"
+            "type": "text"
+            "value": "Anna"
+	    }            
+	]}         
